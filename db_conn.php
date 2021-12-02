@@ -1,9 +1,9 @@
 <?php
 
-$sname= "sql306.epizy.com";
-$unmae= "epiz_30495259";
-$password = "F65czIjWC0ARlv";
-$db_name = "epiz_30495259_loginstuffdb";
+$sname= "sql5.freesqldatabase.com";
+$unmae= "sql5455858";
+$password = "v3WxVaZTGU";
+$db_name = "sql5455858";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
